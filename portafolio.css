@@ -454,6 +454,19 @@ nav {
     gap: 18px;
 }
 
+.tech-badges {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+}
+
+.tech-badges img {
+    display: block;
+    width: auto;
+    height: 28px;
+}
+
 .skill-card {
     display: flex;
     align-items: center;
